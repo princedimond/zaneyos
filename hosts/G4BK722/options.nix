@@ -65,7 +65,7 @@ in {
   printer = true;
 
   # Program Options
-  browser = "firefox"; # Install & Set Default Browser
+  browser = "microsoft-edge-dev"; # Install & Set Default Browser
   terminal = "kitty";  # Set Default System Terminal
   distrobox = false;
   flatpak = true;

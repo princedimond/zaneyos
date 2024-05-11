@@ -10,7 +10,7 @@ in {
     swaynotificationcenter rofi-wayland imv transmission-gtk mpv
     gimp obs-studio rustup audacity pavucontrol tree protonup-qt
     font-awesome spotify swayidle neovide swaylock ferdium vlc 
-    bitwarden protonvpn-gui gitkraken github-desktop brave shutter
+    bitwarden protonvpn-gui gitkraken github-desktop brave shutter vscode
     (nerdfonts.override { fonts = [ "JetBrainsMono" ]; })
     # Import Scripts
     (import ./../scripts/emopicker9000.nix { inherit pkgs; })
